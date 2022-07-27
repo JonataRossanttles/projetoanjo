@@ -80,6 +80,7 @@ main{
     font-size: 2em;
     letter-spacing: 0.2rem;
     margin-top: 20px;
+    visibility: hidden;
        
 }
 .titulo2{
@@ -91,6 +92,7 @@ main{
     border-radius: 5px;
     margin-bottom: 20px;
     margin-top: 20px;
+    visibility: hidden;
     
 }
 main p{
@@ -118,13 +120,14 @@ main p{
     letter-spacing: 0.5rem;
     font-size: 1.2rem;
     padding: 5px;
-    
+    visibility: hidden;
 }
 
 
 .container-info{
     background-color: var(--cor1);
     height: 300px;
+    visibility: hidden;
     
 }
 .container-info ul{
@@ -140,6 +143,7 @@ main p{
    margin-top: 50px;
    text-align: center;
    background-color: var(--cor2);
+ 
   
     
  }
